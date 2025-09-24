@@ -1,0 +1,13 @@
+.DS_Store
+program/target/
+artifacts/circuits/powersOfTau28_hez_final_18.ptau
+artifacts/circuits/transaction2_0.zkey
+anchor/.anchor
+anchor/.DS_Store
+anchor/target
+anchor/**/*.rs.bk
+anchor/node_modules
+anchor/test-ledger
+anchor/.yarn
+anchor/deploy-keypair.json
+anchor/zkcash-keypair.json
